@@ -1,0 +1,6 @@
+@HAPPI_Server_HostAddress = http://localhost:5225
+
+GET {{HAPPI_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
